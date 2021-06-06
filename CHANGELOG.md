@@ -1,3 +1,10 @@
+# [4.2.0](https://github.com/mariocoski/semantic-release-poc-next/compare/v4.1.0...v4.2.0) (2021-06-06)
+
+
+### Features
+
+* add another expiry time config var ([a268ad7](https://github.com/mariocoski/semantic-release-poc-next/commit/a268ad785363c97534c4499e3c9c9efebb8946d1))
+
 # [4.1.0](https://github.com/mariocoski/semantic-release-poc-next/compare/v4.0.45...v4.1.0) (2021-06-06)
 
 
