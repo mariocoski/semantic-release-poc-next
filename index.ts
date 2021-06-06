@@ -1,5 +1,6 @@
 import express from "express";
 import { DEFAULT_PORT_NUMBER } from "./config";
+
 const app = express();
 const OK = 200;
 
