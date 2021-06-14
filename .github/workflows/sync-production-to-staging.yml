@@ -1,6 +1,7 @@
 on:
-  release:
-    types: ["released"]
+  push:
+    branches:
+      - production
 
 jobs:
   pull-request:

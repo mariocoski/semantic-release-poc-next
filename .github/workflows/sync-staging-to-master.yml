@@ -1,9 +1,11 @@
 on:
-  release:
-    types: ["prereleased"]
+  push:
+    branches:
+      - staging
 
 jobs:
   pull-request:
+    if: (github.head_ref == 'production')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
