@@ -1,3 +1,10 @@
+# [4.4.0](https://github.com/mariocoski/semantic-release-poc-next/compare/v4.3.0...v4.4.0) (2021-06-14)
+
+
+### Features
+
+* change the workflow for staging ([cd847cb](https://github.com/mariocoski/semantic-release-poc-next/commit/cd847cbcb1b3317bf58d3d5bf25b14c3ebf61648))
+
 # [4.3.0](https://github.com/mariocoski/semantic-release-poc-next/compare/v4.2.0...v4.3.0) (2021-06-14)
 
 
