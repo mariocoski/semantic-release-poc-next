@@ -1,3 +1,15 @@
+# [4.3.0](https://github.com/mariocoski/semantic-release-poc-next/compare/v4.2.0...v4.3.0) (2021-06-14)
+
+
+### Bug Fixes
+
+* another try with github workflow ([d0d1768](https://github.com/mariocoski/semantic-release-poc-next/commit/d0d17682d791392821dced975fef2e92d7f0df49))
+
+
+### Features
+
+* add post merge automatic PR creation ([62e12a7](https://github.com/mariocoski/semantic-release-poc-next/commit/62e12a7121c6035c8b337354b358105c160c07bd))
+
 # [4.2.0](https://github.com/mariocoski/semantic-release-poc-next/compare/v4.1.0...v4.2.0) (2021-06-06)
 
 
